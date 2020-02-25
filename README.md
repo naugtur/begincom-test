@@ -1,2 +1,0 @@
-# begincom-test
-Begin app
